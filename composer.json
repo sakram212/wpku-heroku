@@ -1,7 +1,7 @@
 {
-    "name": "xyu/heroku-wp",
+    "name": "sakram212/wpku-heroku",
     "description": "A template for installing and running WordPress on Heroku",
-    "homepage": "https://github.com/xyu/heroku-wp",
+    "homepage": "https://github.com/sakram212/wpku-heroku/",
     "license": "MIT",
     "authors": [
         {
