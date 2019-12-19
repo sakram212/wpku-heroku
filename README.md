@@ -8,7 +8,7 @@ Spin Up a Demo
 
 Want to give it a try first? Deploy a demo to your account:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=sakram212/wpku-heroku/tree/button)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sakram212/wpku-heroku/tree/button)
 
 _For production setups it's highly recommended to follow the instructions below to properly install and version control with your own repo._
 
