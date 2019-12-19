@@ -25,6 +25,13 @@
         "wpackagist-plugin/jetpack": "*",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
 
+        "wpackagist-plugin/akismet": "~3",
+        "wpackagist-plugin/debug-bar": "~0.8",
+        "wpackagist-plugin/syntaxhighlighter": "~3",
+        "wpackagist-plugin/wp-serverinfo": "~1",
+        "wpackagist-plugin/wordpress-importer": "~0.6",
+        "trepmal/wp-revisions-cli": "dev-master",
+
         "predis/predis": "~1",
         "wp-cli/wp-cli": "^2"
     },

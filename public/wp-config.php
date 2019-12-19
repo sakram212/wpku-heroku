@@ -240,6 +240,10 @@ if ( isset( $_ENV['WP_DEBUG'] ) && 'TRUE' == $_ENV['WP_DEBUG'] ) {
 	define( 'WP_DEBUG', true );
 	define( 'WP_DEBUG_LOG', false );
 	define( 'WP_DEBUG_DISPLAY', false );
+	if ( isset( $_GET['DEBUG'] ) ) {
+		// Even more debugging
+		define( 'SAVEQUERIES', true );
+	}
 } else {
 	define( 'WP_DEBUG', false );
 }
